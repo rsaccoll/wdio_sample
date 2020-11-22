@@ -102,3 +102,17 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+node_modules/
+node_modules
+package-lock.json
+yarn.lock
+logs/screenshot/*.png
+logs/results/*.log
+logs/results/*.png
+logs/results/*.xml
+logs/.DS_Store
+.DS_Store
+.env
+allure-report/
