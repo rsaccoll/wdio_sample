@@ -1,6 +1,9 @@
 # wdio_sample
 Project sample for Webdriver IO
 
+To install
+- Open a terminal (in the project folder)
+- Run `npm i`
 
 To run the tests
 
